@@ -1,4 +1,4 @@
-## Virtual Private Cloud (VPC)
+## Ex-4 Virtual Private Cloud (VPC)
 
 ### Name: AARON H
 
